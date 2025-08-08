@@ -51,5 +51,5 @@ GNU General Public License v3.0 – see LICENSE file for details.
 💡 “Simplifying GST billing, one invoice at a time!”
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 If you like this project, don’t forget to ⭐ it on GitHub!
+
