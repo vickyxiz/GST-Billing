@@ -23,6 +23,7 @@ Gst-Billing-Python/
 └── manage.py → Django entry point
 
 ⚡ INSTALLATION STEPS
+
 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/Gst-Billing-Python.git
 cd Gst-Billing-Python/Gst-Billing-Python-Django
@@ -52,4 +53,3 @@ GNU General Public License v3.0 – see LICENSE file for details.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 If you like this project, don’t forget to ⭐ it on GitHub!
-
