@@ -3,7 +3,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
 [![Django](https://img.shields.io/badge/Django-Framework-green.svg)]()
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)]()
+
 
 🚀 **A complete GST-compliant billing solution for businesses.**
 Built with Python & Django to simplify invoicing, tax calculation and sales tracking.
@@ -21,22 +21,27 @@ Built with Python & Django to simplify invoicing, tax calculation and sales trac
 ---
 
 ## 📂 Project Structure
-Gst-Billing-Python/
-├── Gst-Billing-Python-Django/
-├── gstbilling/ # Django project settings & config
-├── gstbillingapp/ # Core billing app (models, views, templates)
-├── templates/ # HTML templates
-├── static/ # CSS, JS, images
-├── requirements.txt # Python dependencies
-└── manage.py # Django CLI entrypoint
 
----
+```
+Gst-Billing-Python/
+│
+├── Gst-Billing-Python-Django/     # Main Django project folder
+│   ├── gstbilling/                # Django project settings & configuration
+│   ├── gstbillingapp/             # Core billing logic (models, views, templates)
+│   ├── templates/                 # HTML templates
+│   ├── static/                    # CSS, JavaScript, images
+│   ├── requirements.txt           # Python dependencies
+│   └── manage.py                  # Django CLI entrypoint
+│
+└── README.md                      # Project documentation
+```
+
 
 ## ⚡ Installation (Quickstart)
 1. **Clone**
 
-git clone https://github.com/yourusername/Gst-Billing-Python.git
-cd Gst-Billing-Python/Gst-Billing-Python-Django
+#git clone https://github.com/yourusername/Gst-Billing-Python.git
+#cd Gst-Billing-Python/Gst-Billing-Python-Django
 
 
 2. **Create virtualenv**
