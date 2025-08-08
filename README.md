@@ -1,7 +1,7 @@
 
 #                     GST Billing System — Python + Django
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]
 [![Django](https://img.shields.io/badge/Django-Framework-green.svg)]()
 
 
@@ -38,10 +38,7 @@ Gst-Billing-Python/
 
 
 ## ⚡ Installation (Quickstart)
-1. **Clone**
-
-#git clone https://github.com/yourusername/Gst-Billing-Python.git
-#cd Gst-Billing-Python/Gst-Billing-Python-Django
+1. **Clone** #git clone https://github.com/yourusername/Gst-Billing-Python.git
 
 
 2. **Create virtualenv**
@@ -55,12 +52,6 @@ Gst-Billing-Python/
 6. **Run dev server**
 Open: `http://127.0.0.1:8000/`
 
----
-
-## 🧩 Usage Tips
-- Default admin: create using `createsuperuser` to access admin panel at `/admin/`.  
-- Configure company details, GSTIN, and invoice settings in the admin panel or settings file.  
-- Use `python manage.py loaddata <fixture>.json` if fixtures are provided for sample data.
 
 ---
 
