@@ -1,7 +1,7 @@
 
 #                     GST Billing System — Python + Django
 
-[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]
+[![Python](https://img.shields.io/badge/Python-3.13-blue.svg)]()
 [![Django](https://img.shields.io/badge/Django-Framework-green.svg)]()
 
 
