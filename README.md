@@ -38,7 +38,7 @@ Gst-Billing-Python/
 
 
 ## ⚡ Installation (Quickstart)
-1. **Clone** #git clone https://github.com/yourusername/Gst-Billing-Python.git
+1. **Clone**  git clone https://github.com/yourusername/Gst-Billing-Python.git
 
 
 2. **Create virtualenv**
